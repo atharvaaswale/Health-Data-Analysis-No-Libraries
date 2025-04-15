@@ -53,3 +53,53 @@ HealthPlus-Analysis/
 ├── data/
 │   └── data.csv               # Simulated dataset (172,000 records)
 └── README.md
+
+# 🛠️ How to Run
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/HealthPlus-Analysis.git
+cd HealthPlus-Analysis
+Open the Jupyter Notebook:
+
+bash
+Copy
+Edit
+jupyter notebook main.ipynb
+Ensure data.csv is placed inside the /data directory.
+
+Follow on-screen prompts to interact with the system.
+
+# 💡 Features
+Fully modular design for clarity and maintenance.
+
+Clean separation of concerns across data loading, querying, and user interface.
+
+Built without external data libraries—pure Python only.
+
+User-friendly terminal interface.
+
+# 📈 Possible Extensions
+GUI version using tkinter or PyQt
+
+Integration with SQLite for persistent storage
+
+Visualization support (in coursework 2)
+
+# 🧠 Learning Outcomes
+Implemented effective data structures and design patterns.
+
+Practised file handling and manual data parsing.
+
+Developed modular programming architecture in Python.
+
+Gained insights into health data and real-world application scenarios.
+
+# 📜 License
+This project is for academic and educational purposes only.
+
+# 🙋‍♂️ Author
+Atharva Aswale
+GitHub: @atharvaaswale
