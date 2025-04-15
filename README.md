@@ -42,7 +42,7 @@ A `main.ipynb` file integrates all three modules and serves as the entry point f
 
 ## 📁 Folder Structure
 
-```bash
+```
 HealthPlus-Analysis/
 │
 ├── dataset_module.py
@@ -53,6 +53,7 @@ HealthPlus-Analysis/
 ├── data/
 │   └── data.csv               # Simulated dataset (172,000 records)
 └── README.md
+```
 
 # 🛠️ How to Run
 Clone the repository:
