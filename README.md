@@ -1,6 +1,6 @@
 # Health Data Analysis
 
-**HealthPlus Analysis** is a modular Python-based data analysis tool designed to assist healthcare professionals in monitoring and interpreting patient lifestyle and clinical data. Built as part of the *Programming Concepts and Practice (PCP)* module at Level 7, this project focuses on structured software development, without the use of high-level libraries such as Pandas or NumPy.
+This is a modular Python-based data analysis tool designed to assist healthcare professionals in monitoring and interpreting patient lifestyle and clinical data. Built as part of the *Programming Concepts and Practice (PCP)* module at Level 7, this project focuses on structured software development, without the use of high-level libraries such as Pandas or NumPy.
 
 ---
 
